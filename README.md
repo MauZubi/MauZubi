@@ -1,7 +1,7 @@
 <h1 align="center">Hola👋, Soy Mau Zubillaga</h1>
 <h3 align="center">Soy estudiante en Lic. en Ing. de Software y Sistemas Computacionales.</h3>
 
-- 🎓 Me encuentro constantemente aprendiendo nuevos para mi temas relacionados a mis estudios de interés **desarrollo profesional y personal.**
+- 🎓 Me encuentro constantemente aprendiendo nuevos temas relacionados a mis estudios de interés **desarrollo personal y profesional.**
 
 - 📝 Pueden encontrar algunos ejercicios o proyectos que he guardado/realizado **durante mis estudios.**
 
