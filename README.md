@@ -1,4 +1,4 @@
-<h1 align="center">Hola👋, Soy Mau Zubillaga</h1>
+<h1 align="center">Hola👋, Soy Mau</h1>
 <h3 align="center">Soy estudiante en Lic. en Ing. de Software y Sistemas Computacionales.</h3>
 
 - 🎓 Me encuentro constantemente aprendiendo nuevos temas relacionados a mis estudios y de interés para mi **desarrollo personal y profesional.**
